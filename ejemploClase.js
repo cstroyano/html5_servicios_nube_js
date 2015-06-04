@@ -21,3 +21,6 @@ console.log( "El atributo directamente: " + cont1.cont );
 console.log( cont2.contador() );
 console.log( cont2.incr() );
 console.log( cont2.contador() );
+
+//Modificado para probar con git
+
